@@ -1,28 +1,37 @@
 # Projeto-Landing Page
 
-Uma Landing Page simples feita para praticar desenvolvimento Web, utilizando HTML e CSS, para reforçar fixação do conhecimento das linguagens estudadas.
+Este projeto consiste em uma página web estática criada para fins de estudo e prática de desenvolvimento front-end.
 
 ## Link da aplicação
 
-Acesse aqui: https:
+Acesse aqui: https://projetoacademico1.netlify.app/
 
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
-
 ## Funcionalidades
 
-- Visual Interativo
-- 
-- 
+- Estrutura semântica em HTML
+- Estilização responsiva básica
+- Layout organizado e limpo
+- Efeitos visuais simples com CSS
 
 ## Preview do Projeto
 
+<img width="1912" height="1013" alt="Captura de tela 2026-06-20 112045" src="https://github.com/user-attachments/assets/0509915a-829c-4f4f-80c5-6b72b6f8ff6e" />
 
 
 ## Aprendizados
 
-Neste projeto aprendi:
-- 
+- Estruturação com HTML semântico
+- Seletores CSS
+- Flexbox / Grid
+- Responsividade
+- Organização de código
+
+## Extras
+
+Posteriormente implementando novas funções e melhorias de acordo com os meus novos aprendizados.
+- Criação de uma página de captura de informações.
