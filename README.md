@@ -1,6 +1,6 @@
 # Projeto-Landing Page
 
-Uma Landing Page simples feita para praticar desenvolvimento Web, utilizando os meus conhecimentos das linguagens de programação HTML, CSS, JavaScript.
+Uma Landing Page simples feita para praticar desenvolvimento Web, utilizando HTML e CSS, para reforçar fixação do conhecimento das linguagens estudadas.
 
 ## Link da aplicação
 
